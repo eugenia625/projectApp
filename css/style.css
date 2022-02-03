@@ -75,8 +75,7 @@ footer>.ft_gnb{
 .ft_gnb>ul>li>a{
     color:#fff; 
     display: block;
-    font-size: 15
-    px;
+    font-size: 15px;
 }
 .ft{width:100%; margin: 0 auto;}
 footer img{
